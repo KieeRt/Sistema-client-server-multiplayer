@@ -1,0 +1,87 @@
+Accesso:
+Ip: 127.0.0.1
+Tue Feb 16 19:30:14 2021
+Accesso:
+User name: mimmo
+Ip: 127.0.0.1
+Tue Feb 16 19:30:35 2021
+Conquista:
+username: mimmo
+coordinate: 9:14
+Tue Feb 16 19:30:36 2021
+Conquista:
+username: mimmo
+coordinate: 10:14
+Tue Feb 16 19:30:37 2021
+Conquista:
+username: mimmo
+coordinate: 10:15
+Tue Feb 16 19:30:37 2021
+Conquista:
+username: mimmo
+coordinate: 11:15
+Tue Feb 16 19:30:38 2021
+Conquista:
+username: mimmo
+coordinate: 11:14
+Tue Feb 16 19:30:38 2021
+Conquista:
+username: mimmo
+coordinate: 12:14
+Tue Feb 16 19:30:38 2021
+Conquista:
+username: mimmo
+coordinate: 13:14
+Tue Feb 16 19:30:39 2021
+Conquista:
+username: mimmo
+coordinate: 13:13
+Tue Feb 16 19:30:39 2021
+Conquista:
+username: mimmo
+coordinate: 13:12
+Tue Feb 16 19:30:39 2021
+Conquista:
+username: mimmo
+coordinate: 12:12
+Tue Feb 16 19:30:40 2021
+Conquista:
+username: mimmo
+coordinate: 12:11
+Tue Feb 16 19:30:40 2021
+Conquista:
+username: mimmo
+coordinate: 11:11
+Tue Feb 16 19:30:40 2021
+Conquista:
+username: mimmo
+coordinate: 10:11
+Tue Feb 16 19:30:41 2021
+Conquista:
+username: mimmo
+coordinate: 10:12
+Tue Feb 16 19:30:41 2021
+Conquista:
+username: mimmo
+coordinate: 9:12
+Tue Feb 16 19:30:41 2021
+Conquista:
+username: mimmo
+coordinate: 9:11
+Tue Feb 16 19:30:42 2021
+Conquista:
+username: mimmo
+coordinate: 8:11
+Tue Feb 16 19:30:42 2021
+Conquista:
+username: mimmo
+coordinate: 8:10
+Tue Feb 16 19:30:42 2021
+Conquista:
+username: mimmo
+coordinate: 8:9
+Tue Feb 16 19:30:43 2021
+Logout
+User name: mimmo
+Ip: 127.0.0.1
+Tue Feb 16 19:30:53 2021
